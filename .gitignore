@@ -1,0 +1,7 @@
+# Secrets
+.env
+.env.*
+.env.local
+.env.*.local
+# Exclude the binary
+soarsfit
